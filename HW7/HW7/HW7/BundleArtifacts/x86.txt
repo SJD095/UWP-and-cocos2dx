@@ -1,2 +1,0 @@
-MainPackage=e:\users\szy\documents\visual studio 2015\Projects\HW7\HW7\bin\x86\Release\HW7_1.0.2.0_x86.appx
-SymbolPackage=E:\Users\SZY\Desktop\HW7_1.0.2.0_Test\HW7_1.0.2.0_x86.appxsym
